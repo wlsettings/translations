@@ -1,5 +1,11 @@
 {
-  "products": ["crm", "custom"],
+  "products": [
+    {
+      "name": "CRM",
+      "key": "crm"
+    },
+    { "name": "Custom", "key": "custom" }
+  ],
   "translations": {
     "crm": [
       {
