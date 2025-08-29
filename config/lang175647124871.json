@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "CRM",
+      "key": "crm"
+    },
+    { "name": "Custom", "key": "custom" }
+  ],
+  "translations": {
+    "crm": [
+      {
+        "text": "crm text 1",
+        "translation": "Text 21"
+      },
+      {
+        "text": "crm text 2",
+        "translation": "Text 22"
+      },
+      {
+        "text": "crm text 3",
+        "translation": "Text 23"
+      },
+      {
+        "text": "crm text 4",
+        "translation": "Text 23"
+      }
+    ],
+    "custom": [
+      {
+        "text": "Custom Text",
+        "translation": "Translation",
+        "isCustom": true
+      }
+    ]
+  }
+}
